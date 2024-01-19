@@ -1,0 +1,1 @@
+TOKEN = "6821066137:AAFZQ4IOmkxvAYrfoMBG3Csp5GdIbw08GYk" #token from Telegram @BotFather
